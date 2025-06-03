@@ -1,1 +1,1 @@
-# githelper
+Panduan untuk menggunakan git
