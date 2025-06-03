@@ -1,0 +1,14 @@
+1. Klik kanan ke file yang dinginkan, pilih git bash here
+2. git config --global user.email "adrianbimo4@gmail.com"
+3. git config --global user.name "BAS"
+4. git init
+5. git add .
+6. git commit -m "first commit"
+7. git remote add origin https
+8. git branch -m main
+9. git push -u origin main
+
+git pull origin main
+git checkout main
+git branch
+git branch -d -nama branch-
