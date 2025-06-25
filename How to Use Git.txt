@@ -1,5 +1,5 @@
 1. Klik kanan ke file yang dinginkan, pilih git bash here
-2. git config --global user.email "adrianbimo4@gmail.com"
+2. git config --list || git config --global user.email "adrianbimo4@gmail.com"
 3. git config --global user.name "BAS"
 4. git init
 5. git add .
